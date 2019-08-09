@@ -1,0 +1,21 @@
+@charset "ISO-8859-1";
+
+body {
+	padding: 50px;
+}
+
+form {
+	margin: auto;
+}
+
+div {
+	max-width: 100px;
+}
+
+.color-red {
+	color: red;
+}
+
+.text-center {
+	text-align: center;
+}
